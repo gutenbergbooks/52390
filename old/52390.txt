@@ -1,4 +1,39 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 52390 ***
+The Project Gutenberg EBook of Mammals of Mount Rainier National Park, by 
+Merlin K. Potts and Russell K. Grater
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Mammals of Mount Rainier National Park
+
+Author: Merlin K. Potts
+        Russell K. Grater
+
+Release Date: June 21, 2016 [EBook #52390]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MAMMALS--MT RAINIER NAT PARK ***
+
+
+
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                                 MAMMALS
                                    of
@@ -124,7 +159,7 @@ M. Dixon, Mr. E. Lowell Sumner, and Mr. F. J. McGrail.
   Yellow-haired porcupine                                              45
   White-footed mouse                                                   51
   Coyote                                                               64
-  Cascade red fox, “silver” phase                                      67
+  Cascade red fox, "silver" phase                                      67
   Marten                                                               69
   Washington weasel                                                    72
 
@@ -192,7 +227,7 @@ those most generally accepted for the animals in question.
 
 When the first wildlife survey was made in 1897 it is likely that the
 conditions of that year came nearest to representing the original status
-of the various species—a status that has changed drastically in many
+of the various species--a status that has changed drastically in many
 instances in the years that have followed. At that time the park was
 little known and the faunal relationships were relatively undisturbed.
 In the years since 1900, however, the region has experienced radical
@@ -239,18 +274,18 @@ become increasingly obvious that the occupation of the national parks by
 man and wildlife must inevitably result in wildlife problems. The act
 creating the National Park Service is specific in its language; it says
 that the Service thus established shall promote and regulate the use of
-the areas by such means and measures necessary “to conserve the scenery
+the areas by such means and measures necessary "to conserve the scenery
 and the natural and historic objects and the wildlife therein and to
 provide for the enjoyment of the same in such manner and by such means
-as will leave them unimpaired for the enjoyment of future generations.”
+as will leave them unimpaired for the enjoyment of future generations."
 
 The apparent inconsistency presents itself immediately. Natural features
 must be conserved and protected, they must not be impaired, yet
 provision must be made for their enjoyment by the millions of visitors
 who come to the national parks each year. The course that must be
 followed, then, is one of permitting modification of the natural scene
-only to the degree required to provide for perpetual enjoyment of “the
-scenery, the natural and historic objects and the wildlife.”
+only to the degree required to provide for perpetual enjoyment of "the
+scenery, the natural and historic objects and the wildlife."
 
 The relations between man and the wildlife of the national parks are
 complex. Both occupy the parks, with equal rights to that occupancy. It
@@ -269,14 +304,14 @@ Rainier National Park are those which have developed because of
 relations between man and mammals. The deer, bear, and raccoon are
 outstanding examples. In the developed areas of the park many of these
 animals have become so accustomed to the proximity of man that they no
-longer exhibit timidity in his presence. They are essentially “wild”
+longer exhibit timidity in his presence. They are essentially "wild"
 animals, yet because of close association with man for several wildlife
-generations, they may be practically considered as “semi-domestic”
+generations, they may be practically considered as "semi-domestic"
 animals.
 
-This “semi-domesticity” is a problem in itself. First, it is not in
+This "semi-domesticity" is a problem in itself. First, it is not in
 keeping with the primitive natural scene. The true wildlife picture is
-not one of a deer eating from a visitor’s hand; that is scarcely more
+not one of a deer eating from a visitor's hand; that is scarcely more
 natural than seeing the animal within the fenced enclosure of a zoo. The
 artificial feeding of any form of wildlife is objectionable for several
 other reasons. Such feeding encourages an unnatural concentration of the
@@ -290,7 +325,7 @@ the lowlands are blocked, and starvation is not unusual.
 
 In every instance, experience has shown that when animals are hand-fed,
 petted, and tamed, the results have been detrimental to both the animals
-and to man. The “tamed” animals are often dangerous, or may become so.
+and to man. The "tamed" animals are often dangerous, or may become so.
 Even the harmless appearing deer may, and do, inflict severe injuries by
 striking with the fore feet or hooking with the antlers, and bears often
 strike or bite, once they have lost their instinctive fear of man. When
@@ -300,15 +335,15 @@ isolated section of the park. The latter is often a temporary expedient
 because the animal is likely to return almost at once to its original
 home.
 
-    [Illustration: “Semi-domestic” bears may become unruly. Such animals
+    [Illustration: "Semi-domestic" bears may become unruly. Such animals
     must be live-trapped and removed to isolated sections of the park. A
     wary bruin is often suspicious of the trap.]
 
 That many park visitors are entirely unaware of the concept of
 presenting wildlife in its natural setting is exemplified by the man who
-dashed excitedly into the Chief Ranger’s office and breathlessly
-exclaimed, “Hey, one of your bears is loose!” Park animals are not “zoo
-animals.” They have simply adapted themselves to man’s presence, and
+dashed excitedly into the Chief Ranger's office and breathlessly
+exclaimed, "Hey, one of your bears is loose!" Park animals are not "zoo
+animals." They have simply adapted themselves to man's presence, and
 although their habits have been materially changed in many instances,
 they retain the wild instinct to fight when cornered, to strike back
 against a real or fancied danger, to quarrel with anything which seeks
@@ -316,7 +351,7 @@ to rob them of food. It seems hardly necessary to emphasize the futility
 of attempting to argue the right to possession of a choice morsel with a
 three-hundred-pound bear.
 
-Bears are often condemned as nuisances because they rob the camper’s
+Bears are often condemned as nuisances because they rob the camper's
 food cache, even to the extent of forcing open locked cupboards or
 entering automobiles. Raccoons may make a shambles of food stores, if
 the larder is left unprotected. That these things are nuisances is true,
@@ -330,8 +365,8 @@ Tomorrow another camper receives a rude shock when bruin moves in and
 appropriates his food supply.
 
 It appears then, that these wildlife problems, which have developed
-through man’s influence upon the animals, have been brought about by
-man’s failure to employ his power of reason, his failure to recognize
+through man's influence upon the animals, have been brought about by
+man's failure to employ his power of reason, his failure to recognize
 the effect he may have upon the natural scene. Indeed, it would seem, in
 many instances, that man is the problem, not the animals. They have
 adapted themselves to a condition at variance with their nature; man has
@@ -344,26 +379,26 @@ parks, these of living together must be approached by our recognition of
 the need for such adjustment. The late George M. Wright has well
 expressed the goal to be attained:
 
-  “These problems are of such magnitude that some observers have
+  "These problems are of such magnitude that some observers have
   concluded that only the childish idealist, pathetically blind to the
   practical obstacles, would attempt to accomplish the thing. There are
-  others who believe the effort is warranted. Much of man’s genuine
+  others who believe the effort is warranted. Much of man's genuine
   progress is dependent upon the degree to which he is capable of this
   sort of control. If we destroy nature blindly, it is a boomerang which
   will be our undoing.
 
-  “Consecration to the task of adjusting ourselves to natural
+  "Consecration to the task of adjusting ourselves to natural
   environment so that we secure the best values from nature without
   destroying it is not useless idealism; it is good hygiene for
   civilization.
 
-  “In this lies the true portent of this national parks effort. Fifty
+  "In this lies the true portent of this national parks effort. Fifty
   years from now we shall still be wrestling with the problems of joint
   occupation of national parks by men and mammals, but it is reasonable
   to predict that we shall have mastered some of the simplest
   maladjustments. It is far better to pursue such a course though
   success be but partial than to relax in despair and allow the
-  destructive forces to operate unchecked.”
+  destructive forces to operate unchecked."
 
 
 
@@ -510,7 +545,7 @@ awe-inspiring grandeur where the storm king yields supremacy for only a
 few brief weeks in mid-summer.
 
 Characteristic plants, found in the lower portions of this zone, include
-the Lyall’s lupine, Tolmie’s saxifrage, mountain buckwheat, and golden
+the Lyall's lupine, Tolmie's saxifrage, mountain buckwheat, and golden
 aster.
 
 Only one mammal, the mountain goat, may be considered as characteristic
@@ -584,8 +619,8 @@ sometimes one and rarely three, comprise a family group, and tend to
 keep to themselves. The fawns are hidden at birth, and remain in some
 secluded spot until they are several days old. The mother visits them at
 intervals during the day so that they may be fed, and stays near their
-place of concealment. Almost every season “abandoned” fawns are
-discovered and brought in to one or another of the park’s ranger
+place of concealment. Almost every season "abandoned" fawns are
+discovered and brought in to one or another of the park's ranger
 stations by well-meaning but ill-informed park visitors. In
 exceptionally rare instances the mother may have been killed by some
 predator or a passing automobile, but under no known circumstances has a
@@ -626,7 +661,7 @@ The abundance or lack of forage is an important factor, perhaps the most
 important, in determining local abundance of deer. Densely forested
 sections are not capable of supporting large deer populations because of
 the lack of sufficient brush, shrubbery, and succulent plants which make
-up the bulk of the deer’s diet. Primarily a browser, only in spring does
+up the bulk of the deer's diet. Primarily a browser, only in spring does
 this animal show a preference for grass, and then only for a short
 period.
 
@@ -693,16 +728,16 @@ The occasional records of this species in the park are of those rare
 stragglers which drift in from east of the Cascade crest.
 
 Taylor and Shaw (_Mammals and Birds of Mount Rainier National Park_,
-1927) state that mule deer “May occur in small numbers in the White
-River region, on the east side of the park.” Although their parties did
+1927) state that mule deer "May occur in small numbers in the White
+River region, on the east side of the park." Although their parties did
 not observe mule deer while in the field in 1919, they believed that
 observations made by others familiar with the region were reliable.
 
 A report submitted by the chief ranger of the park in 1932 states:
-“While mule deer are rarely seen they do range along the east side.” It
+"While mule deer are rarely seen they do range along the east side." It
 was not until 1941, however, that this species was included in the
-park’s annual wildlife census, when it was listed as, “Uncommon, only a
-few have been seen. Tipsoo Lake, Deadwood Lake, and Yakima Park.”
+park's annual wildlife census, when it was listed as, "Uncommon, only a
+few have been seen. Tipsoo Lake, Deadwood Lake, and Yakima Park."
 
 The 1948 wildlife census estimates 10 to 20 mule deer observed
 occasionally on the east side during the summer months in previous
@@ -736,12 +771,12 @@ Tatoosh Range. They are reported very rarely from the northern and
 western slopes of the Mountain. In winter a few elk range along the
 Ohanapecosh drainage in the southeastern part of the park.
 
-The early settlers of this country gave the name “elk” to this
+The early settlers of this country gave the name "elk" to this
 magnificent member of the deer family. This is an unfortunate
 designation, since the animal in no way resembles the Old World elk,
 which is actually a moose. However, elk it has been since early American
 history, and elk it is likely to remain, although the Indian name
-“wapiti” seems preferable and more appropriate.
+"wapiti" seems preferable and more appropriate.
 
 The history of the elk in Mount Rainier National Park is an interesting
 study. There can be little doubt that the Roosevelt or Olympic elk,
@@ -781,14 +816,14 @@ southeastern section of the park.
 
 Bull elk are the most polygamous of all deer. During the mating season,
 which occurs late in the fall, a single bull will gather together a
-“harem” of from three or four to as many as two dozen cows with the
-current year’s calves, and defiantly assert his mastery over the group,
+"harem" of from three or four to as many as two dozen cows with the
+current year's calves, and defiantly assert his mastery over the group,
 driving away younger bulls of lesser strength. Should another bull
 challenge his dominance, the ensuing battle is rarely fatal, although it
 may result in a new master. It is not unusual to see the loser, reduced
-to the status of a “bachelor bull,” ranging alone.
+to the status of a "bachelor bull," ranging alone.
 
-The “bugling” of the bulls, a shrill, high-pitched invitation to combat,
+The "bugling" of the bulls, a shrill, high-pitched invitation to combat,
 is a thrilling call, an unusual record of the music of nature.
 
 The young are born in late May or June, usually one to a mother,
@@ -848,7 +883,7 @@ of their nighttime resting places and begin feeding as they climb to
 higher elevations. They travel in a very leisurely fashion, seldom
 running, and they select their course with considerable care. An old
 billy usually takes the lead, the other following along behind in single
-file. Young goats are “sandwiched” between the adults. In moving across
+file. Young goats are "sandwiched" between the adults. In moving across
 any slope area where the footing is treacherous or where rocks might
 roll, it is customary for only one goat to cross at a time, the others
 staying back until it is safe to cross.
@@ -871,7 +906,7 @@ Apparently the goat population of this area is fairly stable, perhaps
 increasing slightly under the complete sanctuary afforded by the park.
 As long ago as 1894, John Muir reckoned that there were over 200 goats
 on Mount Rainier. Ernest Thompson Seton, in his _Lives of Game Animals_
-states that “There are certainly 300 now (1929).” The wildlife census
+states that "There are certainly 300 now (1929)." The wildlife census
 for the park lists from 250-300 goats in 1931, and census reports in
 recent years indicate from 350-400.
 
@@ -881,7 +916,7 @@ recent years indicate from 350-400.
                            OLYMPIC BLACK BEAR
                 _Ursus americanus altifrontalis_ Elliot
 
-There are two color forms of the black bear in the park—the black and
+There are two color forms of the black bear in the park--the black and
 the brown. The all black or mostly black is the phase most commonly
 observed, but brown individuals may often be seen. The black phase
 sometimes has a brown patch covering the muzzle and a white spot on the
@@ -910,7 +945,7 @@ disappeared over the crest west of Cowlitz Rocks.
 There can be no doubt that the bear is one of the feature attractions of
 the park. The appearance of one of these animals is a signal for
 visitors of all ages to come running to get a look. Unfortunately the
-attention paid to the bear doesn’t always stop at this point, and
+attention paid to the bear doesn't always stop at this point, and
 someone is almost sure to pull out a piece of candy or some other tidbit
 to see if bruin will eat it. Thus a bear problem is soon in the making.
 Loving sweets, bacon and grease as he does, the bear cannot be blamed
@@ -922,14 +957,14 @@ in the normal wild state is timid and takes to his heels whenever
 anything of an unusual nature happens. Sudden loud noises will send him
 off in a wild stampede. This can certainly be attested to by one visitor
 whose car was invaded by a bear. Unwittingly the bear sat heavily upon
-the car’s horn—and simply took out glass, door and all in his mad
+the car's horn--and simply took out glass, door and all in his mad
 scramble to get out!
 
 The bear is an expert climber and handles himself with great skill. When
 frightened the cub will almost always shinny up the nearest tree before
 looking to see what caused the alarm. The mother bear will often send
 her youngsters up a tree when she is afraid they may be in danger or
-when she wants them to “stay put” for a time. Bear cubs in a tree are a
+when she wants them to "stay put" for a time. Bear cubs in a tree are a
 fair warning to stay away because the mother is bound to be somewhere
 close by.
 
@@ -970,7 +1005,7 @@ mice, ants, berries of all types and a wide assortment of meats.
 The raccoon has a stocky body about the size of a small dog, with
 relatively short legs and a sharp-pointed muzzle. The coloration is
 grizzled gray-brown with black-tipped hairs sometimes giving a dark
-appearance. The top of the head is blackish, and a broad, “mask-like”
+appearance. The top of the head is blackish, and a broad, "mask-like"
 black band extends across the face and eyes, bordered above and below
 with white. The tail is brownish, encircled by six or seven blackish
 rings. The underparts are light brown, silvered here and there with
@@ -992,7 +1027,7 @@ residence in a few locations of the park during recent years. Formerly
 uncommon, these animals are now abundant at Longmire, and are frequently
 seen in other developed areas as well.
 
-A comparison of the habits of the ’coons thus subjected to close contact
+A comparison of the habits of the 'coons thus subjected to close contact
 with man, and the traits of the true wilderness animals is amazing. The
 semi-domestic raccoons are no longer strictly nocturnal in their
 wanderings, but are often abroad at all times of the day. A whole family
@@ -1000,15 +1035,15 @@ may parade leisurely across the lawn or parking plaza at mid-day,
 pausing to peer curiously through slitted eyes at an assemblage of
 camera-laden visitors. Competition for food is keen, and so avid in
 their pursuit of forage do the animals become that no time is wasted in
-“washing” any morsel, it is bolted immediately.
+"washing" any morsel, it is bolted immediately.
 
 Quarrels, squabbles, and vicious battles are waged vociferously. The
 raccoon is a surly, short-tempered creature at best, and when two or
-more get together, especially members of different families, a “gang
-fight” may be expected to develop, with half a dozen clawing, biting,
-snarling ’coons entangled in one furry mass. For some reason the ringed
+more get together, especially members of different families, a "gang
+fight" may be expected to develop, with half a dozen clawing, biting,
+snarling 'coons entangled in one furry mass. For some reason the ringed
 tail appears to be a particularly vulnerable point of attack, as several
-“bob-tailed” animals at Longmire attest.
+"bob-tailed" animals at Longmire attest.
 
 In some regions this animal is reported as hibernating during the winter
 months, but the local raccoons do not do so. They remain as active with
@@ -1052,7 +1087,7 @@ On Mount Rainier the whistler is abundant in the rock slides from about
 meadows are chosen habitats; the animals are common in the Paradise
 Valley and on the open slopes above Alta Vista.
 
-A piercing, far-carrying whistle is often the park visitor’s
+A piercing, far-carrying whistle is often the park visitor's
 introduction to the marmot or rockchuck of Mount Rainier. A careful
 scrutiny of the nearby terrain will often be rewarded by the sight of
 one or several of these animals, old and young, perched on a rock above
@@ -1066,10 +1101,10 @@ their neighborhood.
 
 The whistler is almost strictly vegetarian in his food habits, feeding
 upon green succulent vegetation in the near vicinity of the burrow. It
-is common to find well-beaten paths from the animal’s “front door” to
+is common to find well-beaten paths from the animal's "front door" to
 the forage areas. Moving about on a grassy slope the fat, lazy rodent
 seems anything but alert, as he crawls from one spot to another. But the
-observer soon becomes aware that the chuck’s pauses to survey the
+observer soon becomes aware that the chuck's pauses to survey the
 landscape are frequent; his head is raised, if no danger threatens his
 tail flips and feeding is resumed. If frightened, swift retreat is
 generally preceded by the shrill whistle, and the sluggish, crawling fat
@@ -1090,21 +1125,21 @@ hibernation the animals may travel a considerable distance over the
 snowfields in search of open ground and green vegetation.
 
 The famous naturalist, Ernest Thompson Seton, has well expressed the
-marmot’s way of life:
+marmot's way of life:
 
-  “Convincing evidence there is that, during lethargy—the little death
-  of the winter sleep—the vital functions are suspended—the sleeper
+  "Convincing evidence there is that, during lethargy--the little death
+  of the winter sleep--the vital functions are suspended--the sleeper
   neither grows, suffers, wastes, nor ages. He did not lay up stores of
   food; yet, in the spring, he comes out just as fat as he went in the
   fall before.
 
-  “If then, the Powers-that-Be have allotted to the Marmot five full
+  "If then, the Powers-that-Be have allotted to the Marmot five full
   years of life, and he elects to live that life in ten bright summer
   times, then must he spend the six dark months each year in deathlike
   sleep. And this he does, in calm, deliberate choice.
 
-  “Oh, happy Whistler of the Peaks! How many of us would do the very
-  same, were we but given choice.”
+  "Oh, happy Whistler of the Peaks! How many of us would do the very
+  same, were we but given choice."
 
 Not many natural enemies threaten the marmot. Perhaps the most to be
 feared is the golden eagle, which may drop from the blue to seize him in
@@ -1164,7 +1199,7 @@ of their diurnal habits and lack of fear, they are a source of
 entertainment and amusement to many park visitors.
 
 Like the mantled ground squirrels, the chipmunks adapt themselves
-rapidly to man’s presence, forage about camps and lodges in search of
+rapidly to man's presence, forage about camps and lodges in search of
 various delicacies, invade camp stores without hesitation, but are such
 engaging company that it is difficult to regard them as anything other
 than friendly guests.
@@ -1297,7 +1332,7 @@ be translated into human speech.
 Although preyed upon by winged and four-footed predators alike, the
 chickaree holds its own very well, probably because this fellow is
 seldom caught napping, certainly not because of shy and retiring habits,
-since the “chatterer” is one of the most conspicuous and interesting of
+since the "chatterer" is one of the most conspicuous and interesting of
 our woodland creatures.
 
 
@@ -1327,12 +1362,12 @@ at Ohanapecosh Hot Springs.
 
 The most interesting characteristic of this little tree-dweller is its
 unique habit of gliding from tree to tree through the air. In launching
-its “flight” the squirrel leaps into space from its perch on a dead snag
+its "flight" the squirrel leaps into space from its perch on a dead snag
 or tree, extends the fore and hind legs, spreading the loose fold of
 skin along its sides, and with the flat tail fluttering behind, sails
 obliquely downward, alighting on the ground or the lower trunk of
 another tree. This aerial maneuver cannot truly be called flight, but
-has resulted in the name “flying squirrel.”
+has resulted in the name "flying squirrel."
 
 Little is known of the life history of this beautiful little animal,
 because of the difficulty of observation. Old woodpecker holes or
@@ -1353,7 +1388,7 @@ short that it is not noticeable in field observation. The sexes are
 colored alike; gray-brown above, whitish below, ears darker, feet light.
 The pelage is soft and quite dense. In general appearance the pikas
 closely resemble the rabbits, except for their small size, short legs,
-and short, rounded ears. The peculiar “bleating” call is unmistakable.
+and short, rounded ears. The peculiar "bleating" call is unmistakable.
 
 _Specimens in park collection:_ RNP-12, RNP-13, and one mounted
 specimen; Headquarters Museum, Longmire.
@@ -1368,8 +1403,8 @@ winter, due to the depth of snow over most sites which they inhabit, but
 during clear, sunny days they occasionally venture out in exposed
 locations.
 
-The common name “hay-maker” has often been applied to the pika, because
-it is one of those provident creatures which literally “makes hay”
+The common name "hay-maker" has often been applied to the pika, because
+it is one of those provident creatures which literally "makes hay"
 during the summer months, curing and drying a wide variety of grasses
 and other plants which are stored for winter food. The hay-barn of the
 pika is in a sheltered crevice or beneath an overhanging boulder in the
@@ -1381,7 +1416,7 @@ among the rocks, and it is commonly heard before it is seen. The sharp,
 short bleat, almost a chirp or squeak, often repeated at rapid intervals
 when the pika is alarmed, is distinctive. If the observer remains
 motionless, and carefully searches nearby with his eyes, he is almost
-certain to see a tiny “rock-rabbit” scamper quickly and with silent,
+certain to see a tiny "rock-rabbit" scamper quickly and with silent,
 sure feet across the rocks, to disappear in a crevice or to perch on an
 exposed boulder. Should the watcher remain quiet, the pika will resume
 its interrupted activities until again disturbed.
@@ -1440,8 +1475,8 @@ involved.
 The first mention of beaver in the park is found in _Mammals and Birds
 of Mount Rainier_, Taylor and Shaw, which states:
 
-  “Dr. A. K. Fisher records that several beavers lived at Longmire
-  Springs until 1896, when a trapper killed them all.”
+  "Dr. A. K. Fisher records that several beavers lived at Longmire
+  Springs until 1896, when a trapper killed them all."
 
 By 1905, according to the _Annual Report of the Secretary of the
 Interior_, beaver had been exterminated within the boundaries of the
@@ -1450,15 +1485,15 @@ park.
 However, by 1919, beaver were again active on Fish Creek, along the
 eastern base of Mount Wow, and in December, Mr. Roger W. Toll, park
 superintendent, reported two dams, each 100 to 200 feet in length. Mr.
-Toll’s observations were set forth thus in a letter:
+Toll's observations were set forth thus in a letter:
 
-  “The beavers are now living in these lakes, and fresh signs are
+  "The beavers are now living in these lakes, and fresh signs are
   abundant. There are numerous tracks in the snow leading from the lakes
   to the thickets of alder, elder, and willow which they are eating.
   There is no typical beaver house in the lakes, but the under-water
   entrance to their house can be seen leading under the roots of a fir
   tree about four feet in diameter that stands on the edge of the upper
-  lake.”
+  lake."
 
 It is in this immediate vicinity that fairly extensive beaver workings
 were observed in November, 1947, including newly repaired small dams and
@@ -1472,7 +1507,7 @@ smaller streams, with a large house completely surrounded by the
 impounded water a central feature of the colony. No such elaborate
 workings have been found here. Since the beavers habitually reside in
 burrows along the margins of streams they are referred to as
-“bank-beavers.” A plausible explanation for this habit is the constant
+"bank-beavers." A plausible explanation for this habit is the constant
 and ample flow of water, which eliminates the necessity for large dams,
 and is adequate to cover at all times the underwater entrances to the
 burrows.
@@ -1488,7 +1523,7 @@ against the upstream side of the dam, as well as along the stream and
 pond margins.
 
 Much has been written concerning the sagacity, engineering ability, and
-industry of the beaver. Certainly “busy as a beaver” is an apt
+industry of the beaver. Certainly "busy as a beaver" is an apt
 comparison for the industrious. The amount of tree-felling, food
 harvesting, and construction and repair which a colony of beavers will
 accomplish overnight is remarkable.
@@ -1559,7 +1594,7 @@ closely than it does the beaver to which it is not closely related. It
 prefers a wet habitat, but is not aquatic. It occasionally gnaws through
 the small stems of willow, alder, and other shrubs, felling them to the
 ground, but it makes no attempt to construct dams or canals. Tiny
-rivulets are often diverted to flow through the mountain beaver’s
+rivulets are often diverted to flow through the mountain beaver's
 burrows, perhaps by accident, possibly because the animal intended such
 diversion.
 
@@ -1633,7 +1668,7 @@ outstanding characteristic of the porcupine. Protected as it is with an
 almost impregnable defense of quills, it has no need for speed and shows
 little fear of any other creature, even man. If pursued when
 encountered, it will waddle away at top speed, which is about equal to a
-man’s brisk walk. If crowded closely, the animal will take to the
+man's brisk walk. If crowded closely, the animal will take to the
 nearest tree if given the opportunity, or may thrust its head beneath a
 convenient root, log, or rock, then thrash the muscular tail about
 vigorously in an effort to discourage attack. The tail is indeed a
@@ -1641,10 +1676,10 @@ formidable weapon. The quills are loosely attached to the skin, and are
 readily detached when they strike any object. They may even be loosened
 by the swinging of the tail, and fly through the air for a short
 distance. It is conceivable that quills thus detached might actually
-penetrate the skin at short range, but a porcupine can not “shoot” its
+penetrate the skin at short range, but a porcupine can not "shoot" its
 quills.
 
-During the winter months “Porky” feeds upon the bark of various trees,
+During the winter months "Porky" feeds upon the bark of various trees,
 with an apparent preference for the conifers and coniferous foliage. At
 times a single tree may furnish food for several days. The porcupine is
 not a traveler, and rarely moves far, since food is ordinarily readily
@@ -1658,7 +1693,7 @@ devoured; it is common to find table-tops and other articles of
 furniture in abandoned camps almost destroyed if they retain any
 evidence of bacon, salt pork, or other salty foods. This habit has
 created a hearty dislike among campers and woodsmen for the
-“quill-pigs,” and they are notorious as camp nuisances.
+"quill-pigs," and they are notorious as camp nuisances.
 
 Because of its nocturnal habits, the porcupine is not often seen. It
 prefers to remain concealed in the uppermost branches of a
@@ -1672,7 +1707,7 @@ attempts upon occasion, but it is difficult to imagine any flesh-eater
 coming out better than second-best in an encounter, with one exception.
 Observations and records of naturalists, trappers, and other competent
 observers throughout the north woods country indicate that the fisher is
-an implacable and deadly enemy of the porcupine, which is the fisher’s
+an implacable and deadly enemy of the porcupine, which is the fisher's
 favorite prey and which it kills by tearing open the unprotected belly.
 Observers have found trapped fishers to contain porcupine quills in the
 intestines and in other parts of the body, with no apparent harmful
@@ -1696,17 +1731,17 @@ species. The variations of opinion are of interest. H. E. Anthony, in
 his _Field Book of North American Mammals_, thus describes the
 Washington Varying Hare:
 
-  “Summer and winter pelages both dull, dark reddish brown (no white
+  "Summer and winter pelages both dull, dark reddish brown (no white
   winter pelage); tops of feet more intense reddish; soles of hind feet
-  sooty.”
+  sooty."
 
 Taylor and Shaw, in _Mammals and Birds of Mount Rainier National Park_,
-are in general agreement with Anthony’s description of summer pelage,
+are in general agreement with Anthony's description of summer pelage,
 but describe the winter coat as follows:
 
-  “In winter in the lowlands the pelage merely puts on a slightly paler
+  "In winter in the lowlands the pelage merely puts on a slightly paler
   or more vinaceous cinnamon tinge; but in Mount Rainier National Park a
-  white coat is assumed.”
+  white coat is assumed."
 
 Still another observation was made by Mr. Walter W. Dalquest of the
 Department of Zoology, University of Washington. After examining study
@@ -1714,18 +1749,18 @@ skins of the varying hares collected in the park, Mr. Dalquest made the
 following comments in a letter addressed to the park naturalist (April,
 1939).
 
-  “The snowshoe hares of the entire Western Cascade region are a very
+  "The snowshoe hares of the entire Western Cascade region are a very
   interesting but mixed up group. I should refer all three of your
   specimens to _Lepus americanus washingtonii_ plus _cascadensis_.
 
-  “The summer specimen from Longmire seems to be typical _washingtonii_
+  "The summer specimen from Longmire seems to be typical _washingtonii_
   in color and skull. The white winter specimen seems to be typical
   _cascadensis_ while the very dark specimen (still in winter coat)
   represents an interesting condition found only in the Western
   Cascades, in which the specimens are darker than any other forms of
   _Lepus americanus_ I have ever seen. This character is well
   represented in a large series from Skykomish, Washington, in which the
-  winter coat varies from pure white to almost black.”
+  winter coat varies from pure white to almost black."
 
 From these observations it would appear that there is a marked variation
 in the winter coloration of _Lepus americanus washingtonii_, and further
@@ -1774,8 +1809,8 @@ varying hare.
 
 The aptness of the common name, varying hare, is easily understood,
 since it applies to the seasonal change of color, brought about by the
-shedding of the coat during the moult. The term “snowshoe rabbit” is
-derived from the long, broad hind feet of the animal, Nature’s wise
+shedding of the coat during the moult. The term "snowshoe rabbit" is
+derived from the long, broad hind feet of the animal, Nature's wise
 provision which permits rapid and efficient progress over deep, soft
 snow.
 
@@ -1810,34 +1845,34 @@ The Mount Rainier species inhabits southern British Columbia, all of
 Washington and Oregon, northern California and Nevada, and most of
 Idaho. In the park it is found from park boundaries to forest line,
 rarely higher, and is not common, although Taylor and Shaw (1919) found
-it “unusually abundant in the timber along Tahoma Creek,” and recorded
+it "unusually abundant in the timber along Tahoma Creek," and recorded
 one individual at Camp Muir (10,000 feet).
 
-Every woodsman has a fund of “pack rat” stories, nearly all of them
+Every woodsman has a fund of "pack rat" stories, nearly all of them
 emphasizing the thieving propensities of the animal, and every story has
 a basis, at least, in fact, because the wood rat will usually pick up
 and carry away anything about the camp that strikes his fancy, if such
 articles are not beyond his physical powers. At times these treasures
 may be found cached away in a bulky pile of dead twigs, leaves and other
 debris in some rock crevice, but the wood rats seem to place little
-dependence upon these “nests” as a place of refuge, preferring to
+dependence upon these "nests" as a place of refuge, preferring to
 retreat into a more adequately protected spot in the rock mass itself.
 
 These animals are ordinarily nocturnal in habit, but may occasionally be
 seen by day. They are not excessively shy, and oftentimes create quite a
 disturbance with their nightly prowlings when they are found about
 campsites or dwellings. Their presence is frequently made known by a
-soft “thump-thump-thump” made at regular intervals of about one second
+soft "thump-thump-thump" made at regular intervals of about one second
 by tapping a hind foot on the ground, rock, or some object.
 
 The wood rat has a distinct musky odor, and a cave, crevice, or cabin in
 which they have established residence can be recognized at once, even by
-man’s inferior sense of smell, by the atmosphere.
+man's inferior sense of smell, by the atmosphere.
 
 It is readily apparent from the preceding discussion that the reputation
 the wood rat has made among woodsmen and campers as a nuisance is not
 ill-founded. They are interesting and active creatures, however, not
-nearly so unsavory as the name “rat” implies, and in many instances the
+nearly so unsavory as the name "rat" implies, and in many instances the
 entertainment they provide outweighs their less engaging habits.
 
     [Illustration: The inquisitive and abundant white-footed mice are
@@ -2025,7 +2060,7 @@ The only conspicuous evidences of the presence of the heather vole are
 the tidy, compact winter nests of dried grass, lichen, and other plant
 fibers. These nests, constructed on the ground under the snow, are
 apparently abandoned when the snow melts, and it is difficult to
-discover other signs of the animal’s activities.
+discover other signs of the animal's activities.
 
 Like the meadow mice, the mountain lemming mouse is a staple item in the
 diet of the predators.
@@ -2108,8 +2143,8 @@ eight inches. The body is stout, with tiny eyes, short legs and tail.
 The fur is dense and velvety, blackish-brown in color, usually with a
 purplish tone.
 
-It is found in “extreme northwestern California, Oregon and Washington
-west of the Cascade Mountains” (Jackson). Little is known about its
+It is found in "extreme northwestern California, Oregon and Washington
+west of the Cascade Mountains" (Jackson). Little is known about its
 status within the park. Workings were observed and a specimen collected
 at Spray Park (5,500 feet) in 1919.
 
@@ -2146,7 +2181,7 @@ in broad, handlike feet with the palms turned outward; and by its
 pointed nose; short tail; elongated body with fine, plush-like fur; and
 the apparent absence of external eyes and ears.
 
-The mole is one of Nature’s strangest creations. From birth it is
+The mole is one of Nature's strangest creations. From birth it is
 destined to live underground, working diligently in total darkness to
 obtain the food necessary for its existence. Its appetite seems never to
 be satisfied and captive specimens have been known to eat more than
@@ -2154,7 +2189,7 @@ their own weight in a single day. Earthworms and grubs make up the major
 portion of the food eaten, although beetles, spiders, various insects
 and occasionally plants are of importance. The mole has the dubious
 distinction of being of great value to the farmer because of the worm
-pests he destroys, yet is regarded in return as one of the farmer’s
+pests he destroys, yet is regarded in return as one of the farmer's
 worst pests. A large part of this bad reputation arises from the damage
 done growing plants by rodents that use the mole burrow to reach the
 tender flower bulbs and growing roots found underground.
@@ -2199,8 +2234,8 @@ The cinereous shrew, _Sorex cinereus cinereus_ Kerr, is of medium size
 and difficult to separate from the dusky and wandering shrews. It is
 distinguished by its small size and pale color.
 
-This species “ranges over most of Alaska, Canada and the northern half
-of the United States” (Dalquest). Within the park it has been recorded
+This species "ranges over most of Alaska, Canada and the northern half
+of the United States" (Dalquest). Within the park it has been recorded
 only along the Paradise River, and data are lacking regarding its range.
 
 The Trowbridge shrew, _Sorex trowbridgii trowbridgii_ Baird, is a large
@@ -2321,20 +2356,20 @@ RNP-93; Longmire Museum, Park Headquarters.
 The bats are among the most feared and least known of any of our
 mammals. Many people are afraid to have anything to do with them, and
 everyone is familiar with the old belief that, given the opportunity, a
-bat will fly into one’s hair. Yet the bats that are so common in North
+bat will fly into one's hair. Yet the bats that are so common in North
 America are weak and entirely harmless. Far from being harmful to man,
 they serve a most useful function in destroying various insects. The
 worst problem the bat presents is the habit some species have of using
 buildings as a place to sleep.
 
 Although possessing a wing-like structure, the bat does not have a wing
-in the sense that a bird has. The “wing” consists of a much modified
+in the sense that a bird has. The "wing" consists of a much modified
 hand with very long fingers. This is covered with a thin, but very tough
-membrane, that enables the animal to fly. The bat’s flight is seemingly
-aimless, but is actually purposeful. It is during these “drunken
-flights” that it catches the insects upon which it lives.
+membrane, that enables the animal to fly. The bat's flight is seemingly
+aimless, but is actually purposeful. It is during these "drunken
+flights" that it catches the insects upon which it lives.
 
-By far the most astonishing and marvelous feature about the bat’s
+By far the most astonishing and marvelous feature about the bat's
 anatomy is the delicate mechanism that guides it in flight. This animal
 has operated on the principle used by radar thousands of years before
 man discovered the device. The hearing is extremely acute and bats are
@@ -2343,16 +2378,16 @@ human ear. During flight it sends out shrill cries of high vibration
 frequency. As these sounds travel out through space they are reflected
 back by any object, large or small, that they strike. Through sensitive
 ears the bat receives these rebounding sounds and thus is aware at all
-times of the nearness of any object. This explains the bat’s uncanny
+times of the nearness of any object. This explains the bat's uncanny
 ability to fly through a room in total darkness without striking even
 such small objects as wire or lamp cords. This ingenious device fails
 around water, however. Experiments have shown that a small wire
-stretched just above the surface of a pond is not “seen” by the bat when
+stretched just above the surface of a pond is not "seen" by the bat when
 it swoops down to get a drink.
 
 Some bats rest in leafy treetops where they cling to small branches.
-Most species stay in hollow trees or caves during the daytime, and “bat
-caves” are common in many parts of the country, the most famous one is
+Most species stay in hollow trees or caves during the daytime, and "bat
+caves" are common in many parts of the country, the most famous one is
 at Carlsbad Caverns National Park. While resting or sleeping the bat
 hangs head downward, always in a position to drop and fly at any moment.
 It is helpless on the ground, and must obtain sufficient elevation to
@@ -2392,11 +2427,11 @@ attention. There is a spine-tingling, eerie quality in the call that
 seems symbolic of a wilderness land. It is descriptive also, in that it
 may sound like one animal or a pack. Usually it is heard at sunset or on
 moonlight nights in the fall or winter, as the pack gathers for the
-night’s foraging.
+night's foraging.
 
 The park is not especially well suited to the coyote, as it lacks the
 open sagebrush flats and rolling hills that are such important parts of
-the animal’s natural environment. Coyotes are highly adaptable animals,
+the animal's natural environment. Coyotes are highly adaptable animals,
 however, and seem to fit themselves into almost any habitat. Having
 respect but little fear of man, they are often found even in the farming
 districts and near the smaller towns. Wherever there is sufficient food
@@ -2415,7 +2450,7 @@ coyote is hard to equal, and it may frequently be seen in the early
 evening catching meadow mice. Destruction of deer is not overly
 extensive, with the old animals and an occasional unwary fawn being the
 principal victims. Once in a while a deer is found that refuses to
-become an easy prey and a merry chase often follows—this time with the
+become an easy prey and a merry chase often follows--this time with the
 coyote beating a hasty retreat with the enraged, wouldbe victim close
 behind. There are numerous instances of such chases on record, and
 authentic observations of coyotes being knocked down and trampled by
@@ -2463,7 +2498,7 @@ deer, elk, rabbits and other important food sources are found. Being
 extremely shy and silent, the animal is seldom seen even when known to
 be present.
 
-    [Illustration: The “silver” color phase of the red fox transforms an
+    [Illustration: The "silver" color phase of the red fox transforms an
     alert and attractive animal into a creature of rare beauty.]
 
 Little is known regarding the family life of the wolf, although the
@@ -2475,8 +2510,8 @@ always hungry family even though their parents may bring in large
 quantities of food. In the late summer and early fall they are taken out
 in a group or pack and taught the essentials of successful hunting.
 
-Powerful and intelligent, the wolf stands out as one of Nature’s finest
-predator creations. It is unfortunate that man’s economic interests and
+Powerful and intelligent, the wolf stands out as one of Nature's finest
+predator creations. It is unfortunate that man's economic interests and
 the food habits of the wolf clash, and the continuous campaign of
 extermination being waged can have but one inevitable result unless
 public appreciation of this now rare wilderness animal increases. Like
@@ -2489,13 +2524,13 @@ most, if not eventually all, of the United States.
 
 The Cascade red fox is about the size of a small dog, with a very
 slender body, bushy tail, erect ears and pointed muzzle. It may have
-several color “phases” of which the red is the one most often seen. In
-the “red” phase the head and upper parts are a straw yellow; ears
+several color "phases" of which the red is the one most often seen. In
+the "red" phase the head and upper parts are a straw yellow; ears
 blackish and underparts white. The tail is yellowish mixed with black,
-with a prominent white tip. The “cross” phase is of the same general
+with a prominent white tip. The "cross" phase is of the same general
 coloration as the red, but has a dark band running across the shoulders
 and a dark band down the back, another dark band runs from the chin down
-the throat onto the belly. The “black” or “silver” fox is all black with
+the throat onto the belly. The "black" or "silver" fox is all black with
 silver-tipped hairs, excepting the white tip of the tail. A litter of
 pups may contain all of the various color phases.
 
@@ -2513,7 +2548,7 @@ bark is sometimes heard in the late evening. One pair of foxes has
 raised families for several seasons within a short distance of the busy
 highway to Paradise Valley near Marmot Point, while residents of
 Longmire have had the thrill of seeing more than one of the shimmering
-“silver” foxes around their yards.
+"silver" foxes around their yards.
 
 Few animals are so graceful and agile, and to watch a fox stalking a
 mouse is to see a gifted expert in the art of hunting. Soundless, alert,
@@ -2581,7 +2616,7 @@ been obtained for several years. Investigation in the more remote
 sectors may disclose its presence. It was once known to range from the
 park boundaries to forest line.
 
-The name “fisher” is somewhat of a misnomer, as the animal is not known
+The name "fisher" is somewhat of a misnomer, as the animal is not known
 to catch fish or even to live close to streams. It will eat fish if the
 opportunity arises, however. It has a wide variety of common names,
 including that of pennant marten, pekan, and black cat.
@@ -2617,7 +2652,7 @@ Ohanapecosh Rivers and around Lake Louise.
     [Illustration: The weasel is a tireless and efficient hunter.]
 
 The mink seems to be equally at home in the forests or in the open
-meadows—all it requires is a watercourse or lake that will supply food
+meadows--all it requires is a watercourse or lake that will supply food
 of some type. Minks are great travelers, often following a stream for a
 considerable distance as they hunt. The hunting pattern is erratic and
 every little thing that attracts attention apparently bears
@@ -2710,7 +2745,7 @@ grazing regions it has no equal.
 The wolverine has a stocky body, with a powerful head, neck and legs.
 The legs and tail are short, the coloration is blackish or dark brown, a
 broad, yellowish band beginning at the shoulders runs along either side
-and reunites on the animal’s rump. The lower parts are generally
+and reunites on the animal's rump. The lower parts are generally
 blackish, except for the throat and chest, which are usually mottled
 with white or salmon color. Large males may measure as much as three
 feet in length, including the tail, which is about ten inches long, and
@@ -2797,7 +2832,7 @@ spotted white, and the tail broadly white-tipped.
 
 _Specimens in park collection:_ None.
 
-The spotted skunks, often erroneously called “civet cats,” are found
+The spotted skunks, often erroneously called "civet cats," are found
 over most of the United States.
 
 The little spotted skunk occurs on the west side of the Cascade
@@ -2823,7 +2858,7 @@ resorts to the strong perfume it carries.
 
 Its food is varied, and may include almost anything from insects and
 reptiles to small rodents. As a mouser it rivals a cat in effectiveness.
-Sometimes referred to as the “hydrophobia skunk” or “phoby-cat” it has
+Sometimes referred to as the "hydrophobia skunk" or "phoby-cat" it has
 had a bad reputation in the past as a carrier of hydrophobia. However,
 the belief so prevalent among many people that its bite will always
 produce this dread malady has no foundation in fact. Many animals may
@@ -2902,13 +2937,13 @@ chances of actually observing one in the wilds are very remote, as the
 lion usually sees without being seen, and beats a hasty retreat.
 
 Much has been said pro and con about the ability of the cougar to emit a
-“scream.” Much depends upon the person’s conception of what makes up a
-“scream.” For the most part the cougar is silent, but contrary to what
+"scream." Much depends upon the person's conception of what makes up a
+"scream." For the most part the cougar is silent, but contrary to what
 is often claimed, it does have the ability to express itself vocally. At
 times it may utter a loud cry that reminds one somewhat of the caterwaul
 of a domesticated tomcat. One female lion in a zoo gave a long series of
-such squalls when her kitten was taken from her. The so-called “woman in
-agony” scream, so often attributed to the cougar, is more likely that of
+such squalls when her kitten was taken from her. The so-called "woman in
+agony" scream, so often attributed to the cougar, is more likely that of
 the grown young of the great horned owl.
 
 The cougar is also well known because of its great liking for venison,
@@ -2917,9 +2952,9 @@ lion kills large numbers of deer each year (some persons claim as high
 as 100 per year) is something that needs clarification. There is little
 doubt that when deer are abundant a lion will get a considerable number;
 conversely when deer are not common the number taken will be low. Under
-natural conditions the lion serves as an important “control” upon the
+natural conditions the lion serves as an important "control" upon the
 numbers of deer in any given region, for the most part killing old
-animals that have passed their prime or young deer that aren’t
+animals that have passed their prime or young deer that aren't
 sufficiently alert, so offering no real threat to the deer population as
 a whole, but definitely helping to preserve forest reproduction from
 destruction by preventing an excessive multiplication of deer.
@@ -2974,7 +3009,7 @@ northern Oregon in the Northwest, southward in the Rocky Mountains into
 Colorado, and as far south as Pennsylvania in the northeast.
 
 Taylor and Shaw, in _Mammals and Birds of Mount Rainier National Park_,
-1927, observe that, “The shy and secretive habits of the members of the
+1927, observe that, "The shy and secretive habits of the members of the
 cat tribe make their study unusually difficult. At the outset one finds
 himself practically restricted to an examination of tracks and sign.
 These indicate the abundance of cats of the genus _Lynx_ (either lynx or
@@ -2983,8 +3018,8 @@ confined to higher portions of the park, the bobcat to lower altitudes.
 J. B. Flett reports the capture of a Canada lynx some years ago by C. A.
 Stoner in the Sawtooth Range just south of the park.
 
-  “Tracks and sign ... were most in evidence on the backbone ridges at
-  or just above timberline.”
+  "Tracks and sign ... were most in evidence on the backbone ridges at
+  or just above timberline."
 
 For the past several years there have been no authentic records of the
 Canada lynx in the park, and it is extremely doubtful that the animal
@@ -3014,14 +3049,14 @@ The occurrence of the following mammals was listed by Taylor and Shaw,
 _Mammals and Birds of Mount Rainier National Park_, 1927, as follows:
 
 
-  Muskrat, _Ondatra zibethicus osoyoosensis_ (Lord). “In lower portions
+  Muskrat, _Ondatra zibethicus osoyoosensis_ (Lord). "In lower portions
           of the park; apparently now trapped out within its
-          boundaries.”
-  Norway Rat, _Rattus norvegicus norvegicus_ (Erxleben). “Here included
+          boundaries."
+  Norway Rat, _Rattus norvegicus norvegicus_ (Erxleben). "Here included
           on the authority of J. B. Flett, who has observed it at
-          Longmire.”
-  House Mouse, _Mus musculus_ Linnaeus subsp? “At Longmire; at present
-          scarce, perhaps extirpated.”
+          Longmire."
+  House Mouse, _Mus musculus_ Linnaeus subsp? "At Longmire; at present
+          scarce, perhaps extirpated."
 
 
 It is believed that the three species above are not now found within the
@@ -3034,7 +3069,7 @@ park.
 
 
   ANTHONY, H. E.
-    1928 _Field Book of North American Mammals. G. P. Putnam’s Sons, New
+    1928 _Field Book of North American Mammals. G. P. Putnam's Sons, New
           York._
 
 
@@ -3256,15 +3291,15 @@ park.
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—Corrected a few palpable typographical errors.
+--Corrected a few palpable typographical errors.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -3276,4 +3311,365 @@ park.
 End of the Project Gutenberg EBook of Mammals of Mount Rainier National Park, by 
 Merlin K. Potts and Russell K. Grater
 
-*** END OF THE PROJECT GUTENBERG EBOOK 52390 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK MAMMALS--MT RAINIER NAT PARK ***
+
+***** This file should be named 52390.txt or 52390.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/3/9/52390/
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
